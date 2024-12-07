@@ -53,7 +53,7 @@ Next, we can run an integration test. We'll simply test the connection to the se
        - Commands:
         ```
         sleep 10
-        curl localhost:5000
+        curl python_server:5000
        ```
      - Select ```Apply Changes```.
 
